@@ -1,7 +1,5 @@
 # Farofa Chef Atala
 
-![farofa](imagens/farofa-atala.png)
-
 - Bacon
 - Azeite
 - Cebola
