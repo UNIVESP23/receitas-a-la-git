@@ -1,4 +1,18 @@
 # Receitas a la Git
+
+- [Receitas a la Git](#receitas-a-la-git)
+  - [Objetivo](#objetivo)
+  - [Como utilizar](#como-utilizar)
+  - [Passo a passo](#passo-a-passo)
+    - [1. Faça o **fork** do repositorio:](#1-faça-o-fork-do-repositorio)
+    - [2. Faça o clone deste repositorio "forkado"](#2-faça-o-clone-deste-repositorio-forkado)
+    - [3. Criar uma nova branch com o nome neste padrão \<siglas do nome\>-\<nome da receita em Kebab-case\>](#3-criar-uma-nova-branch-com-o-nome-neste-padrão-siglas-do-nome-nome-da-receita-em-kebab-case)
+    - [4.Adicionar a receita na pasta Menu:](#4adicionar-a-receita-na-pasta-menu)
+    - [5. Efetuar o Commit](#5-efetuar-o-commit)
+    - [6. Subir a branch para o seu repositorio](#6-subir-a-branch-para-o-seu-repositorio)
+    - [7. Criar uma nova Pull Request para o repositorio de origem na Branch Main](#7-criar-uma-nova-pull-request-para-o-repositorio-de-origem-na-branch-main)
+
+
 ## Objetivo
 O objetivo desse repositorio é para auxiliar os alunos da UNIVESP a entender o funcionamento de um ciclo de colaboração no Github.
 
