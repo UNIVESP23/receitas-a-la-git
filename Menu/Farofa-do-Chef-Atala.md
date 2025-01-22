@@ -28,3 +28,6 @@
 12. colocar o tomate
 13. Pimenta do reino
 14. Coentro Verde picado no machado
+15. Provar a comida para verificar se está bom de sal
+16. Desligar fogo e aguardar 5 minutos para retirar da panela.
+
